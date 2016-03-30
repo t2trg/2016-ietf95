@@ -19,6 +19,11 @@ Buen Ayre C	IRTF***	t2trg	Thing-to-Thing
 | 17:03 | Chairs     | Future work on schema interoperability: call for contributions | (cf. [IOTSI][] workshop)                                                                               |
 | 17:15 | Chairs     | Meeting plan                                                   |                                                                                                        |
 
-*) e.g. [draft-hartke-core-apps](https://tools.ietf.org/html/draft-hartke-core-apps), [draft-hartke-t2trg-coral](https://tools.ietf.org/html/draft-hartke-t2trg-coral), [draft-hartke-core-lighting](https://tools.ietf.org/html/draft-hartke-core-lighting), [draft-koster-t2trg-hypertext-language](https://tools.ietf.org/html/draft-koster-t2trg-hypertext-language), [draft-lynn-t2trg-model-rest-apis](https://tools.ietf.org/html/draft-lynn-t2trg-model-rest-apis)
+*) e.g.,
+[draft-hartke-core-apps](https://tools.ietf.org/html/draft-hartke-core-apps),
+[draft-hartke-core-lighting](https://tools.ietf.org/html/draft-hartke-core-lighting),
+[draft-hartke-t2trg-coral](https://tools.ietf.org/html/draft-hartke-t2trg-coral),
+[draft-koster-t2trg-hypertext-language](https://tools.ietf.org/html/draft-koster-t2trg-hypertext-language),
+[draft-lynn-t2trg-model-rest-apis](https://tools.ietf.org/html/draft-lynn-t2trg-model-rest-apis)
 
 [IOTSI]: https://www.iab.org/activities/workshops/iotsi/
